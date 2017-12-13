@@ -8,7 +8,7 @@
         <configVersion>2</configVersion>
         <userRemoteConfigs>
             <hudson.plugins.git.UserRemoteConfig>
-                <url>http://stash.devillo.no/scm/annet/jenkins-dsl-scripts.git</url>
+                <url>http://github.com/navikt/jenkins-dsl-scripts.git</url>
             </hudson.plugins.git.UserRemoteConfig>
         </userRemoteConfigs>
         <branches>
